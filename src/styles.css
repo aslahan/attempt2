@@ -1,0 +1,174 @@
+body {
+    width: 1170px;
+    margin: auto;
+}
+
+
+
+.ounter {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 25px;
+    color:  #F27C0F;
+    margin-top: 3px;
+}
+
+
+
+.logo-item {
+    display: flex;
+}
+
+
+
+.rod-menu {
+    font-family: 'Poppins';
+}
+
+
+
+.menu-spisok {
+    width: 250px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    color: #003399;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+.menu-spisok {
+    text-decoration: none;
+}
+
+
+
+.rod-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.rod-nil-maincontent {
+    font-family: 'Poppins';
+    font-size: 288px;
+    text-align: center;
+    color: #F27C0F;
+}
+
+
+.buttons-item {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+
+.button-plus {
+    background-color:#003399;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    color: white;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 24px;
+}
+
+
+.button-minus {
+    background-color:#F27C0F;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    color: white;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 24px;    
+}
+
+
+
+.button-reset {
+    background-color:#E5E5E5;
+    border-radius: 4px;
+    font-family: 'Poppins';
+    color: black;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 24px;  
+}
+
+
+
+.rod-footer {
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.footer-item {
+    font-family: 'Poppins';
+    display: flex;
+}
+
+
+
+.ounter1 {
+    margin-top: 15px;
+    font-weight: 700;
+    color: gray;
+}
+
+
+
+.helpnav-spisok {
+    width: 250px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Poppins';
+}
+
+
+.logotip-footer {
+    color: gray;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 40px;
+    
+}
+
+
+
+.copyright-item {
+    font-family: 'Poppins';
+    color: gray;
+}
+
+
+
+
+.rod-helpnav {
+    margin-bottom: 20px;
+}
+
+
+
+.rod-copyright {
+    margin-top: 15px;
+}
+
+
+
